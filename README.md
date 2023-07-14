@@ -1,2 +1,6 @@
 # flappy-bird-game
-Introducing Flappy Bird, an addictive side-scroller game created by Dong Nguyen. Players take control of a bird, maneuvering it through a series of green pipes, striving to avoid collisions and stay airborne. With its simple yet challenging gameplay, Flappy Bird captivates players of all levels with its endless pursuit of high scores.
+Flappy Bird was a side scrolling game developed by Dong Nguyen.
+Even though the sport relies on 2D Graphics, it became quite popular on both Android and iOS platforms. The aim of the sport is easy, attempt to fly the bird, which is named “Faby”, between the green pipes without hitting them.
+Due to its addictive nature, the developer of the game discontinued the game from both the channels (Google Play Store and App Store) but a revised version for Amazon Fire TV is launched on Amazon App Store .The popularity of the lead to several replica games and cloned versions were released. In this project, we will take the concept of the sport and implement a Flappy Bird Game using Python language .
+
+
